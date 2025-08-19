@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+duckdb
+python-dateutil
+requests
+beautifulsoup4
+lxml
